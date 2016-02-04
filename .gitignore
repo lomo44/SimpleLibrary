@@ -17,6 +17,21 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
 # =========================
 # Operating System Files
 # =========================
